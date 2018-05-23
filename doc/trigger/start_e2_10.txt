@@ -1,0 +1,19 @@
+Retrieving CommandDispatcher for platform null
+The simulation is starting to charge simulation agents
+BU45.1.3_1@127.0.0.2:1098/JADE
+BU45.1.3_2@127.0.0.2:1098/JADE
+BU45.1.3_3@127.0.0.2:1098/JADE
+BU45.1.3_4@127.0.0.2:1098/JADE
+BU45.1.3_5@127.0.0.2:1098/JADE
+BU45.1.3_6@127.0.0.2:1098/JADE
+BU45.1.3_7@127.0.0.2:1098/JADE
+BU45.1.3_8@127.0.0.2:1098/JADE
+BU45.1.3_9@127.0.0.2:1098/JADE
+BU45.1.3_10@127.0.0.2:1098/JADE
+The simulation ended to charge simulation agents
+The simulation is starting to charge the time controll agent
+The simulation ended to charge time controll agent
+The simulation was charged in 5 seconds
+******************************************
+*** The experiment has finished       ****
+******************************************

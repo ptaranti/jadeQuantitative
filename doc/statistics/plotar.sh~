@@ -1,0 +1,5 @@
+rm *.png
+
+#cat plotar.cnf | gnuplot
+
+cat plotar2.cnf | gnuplot

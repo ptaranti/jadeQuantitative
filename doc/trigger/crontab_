@@ -1,0 +1,90 @@
+
+
+# Arquivo para crontab
+
+# Primeiro Experimento
+
+#primeiro dia
+00 01 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_10.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_10.txt
+00 02 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_100.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_100.txt
+00 03 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_200.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_200.txt
+00 04 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_300.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_300.txt
+00 05 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_400.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_400.txt
+00 06 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_500.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_500.txt
+00 07 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_600.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_600.txt
+00 08 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_700.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_700.txt
+00 09 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_800.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_800.txt
+00 10 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_900.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_900.txt
+00 11 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1000.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1000.txt
+00 12 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1100.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1100.txt
+00 13 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1200.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1200.txt
+00 14 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1300.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1300.txt
+00 15 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1400.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1400.txt
+00 16 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1500.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1500.txt
+00 17 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1600.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1600.txt
+00 18 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1700.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1700.txt
+00 19 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1800.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1800.txt
+00 20 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1900.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_1900.txt
+00 21 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2000.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2000.txt
+00 22 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2100.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2100.txt
+00 23 * * 3 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2200.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/
+Disciplinas/2010.2/Qualificacao/trigger/start_e1_2200.txt
+#segundo dia
+00 00 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2300.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2300.txt
+00 01 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2400.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2400.txt
+00 02 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2500.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2500.txt
+00 03 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2600.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2600.txt
+00 04 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2700.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2700.txt
+00 05 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2800.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2800.txt
+00 06 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2900.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_2900.txt
+00 07 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_3000.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e1_3000.txt
+ 
+#
+# SEGUNDO EXPERIMENTO
+#
+
+00 08 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_10.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_10.txt
+00 09 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_100.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_100.txt
+00 10 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_200.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_200.txt
+00 11 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_300.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_300.txt
+00 12 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_400.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_400.txt
+00 13 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_500.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_500.txt
+00 14 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_600.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_600.txt
+00 15 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_700.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_700.txt
+00 16 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_800.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_800.txt
+00 17 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_900.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_900.txt
+00 18 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1000.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1000.txt
+00 19 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1100.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1100.txt
+00 20 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1200.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1200.txt
+00 21 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1300.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1300.txt
+00 22 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1400.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1400.txt
+00 23 * * 4 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1500.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1500.txt
+#terceiro dia
+00 00 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1600.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1600.txt
+00 01 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1700.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1700.txt
+00 02 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1800.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1800.txt
+00 03 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1900.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_1900.txt
+00 04 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2000.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2000.txt
+00 05 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2100.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2100.txt
+00 06 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2200.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2200.txt
+00 07 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2300.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2300.txt
+00 08 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2400.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2400.txt
+00 09 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2500.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2500.txt
+00 10 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2600.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2600.txt
+00 11 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2700.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2700.txt
+00 12 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2800.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2800.txt
+00 13 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2900.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_2900.txt
+00 14 * * 5 /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_3000.sh > /trabalho/Trabalho/PUC-Rio/Doutorado/Disciplinas/2010.2/Qualificacao/trigger/start_e2_3000.txt
+
+
+
+
+#    *  Minutos: informe números de 0 a 59;
+#    * Horas: informe números de 0 a 23;
+#    * Dias do mês: informe números de 0 a 31;
+#    * Mês: informe números de 1 a 12;
+#    * Dias da semana: informe números de 0 a 6;
+#    * Usuário: é o usuário que vai executar o comando (não é necessário especificá-lo se o arquivo do próprio usuário for usado);
+#    * Comando: a tarefa que deve ser executada. 
+#      # tarefa 1
+#      00 22 * * 5 echo "Porque nós amamos a liberdade" 
